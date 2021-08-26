@@ -1,1 +1,1 @@
-mongodb+srv://Rafojan98.@cluster0.2ak6l.mongodb.net/astro_labs2021?retryWrites=true&w=majority
+mongodb://RafoARM:rafojan98@cluster0-shard-00-00.2ak6l.mongodb.net:27017,cluster0-shard-00-01.2ak6l.mongodb.net:27017,cluster0-shard-00-02.2ak6l.mongodb.net:27017/astro_jul2021?ssl=true&replicaSet=atlas-n2xnse-shard-0&authSource=admin&retryWrites=true&w=majority

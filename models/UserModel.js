@@ -19,12 +19,17 @@ const UserSchema = new mongoose.Schema(
             type: String,
             required: false
         },
+        
         phoneNumber: {
+            type: String,
+            required: false
+        },
+        avatar: {
             type: String,
             required: false
         }
     }
 );
 
-const UserModel = mongoose.model('users', UserSchema);
+const UserModel = mongoose.model('user_profile', UserSchema);
 module.exports = UserModel;
